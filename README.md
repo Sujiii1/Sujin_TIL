@@ -2,4 +2,4 @@
 
 > C#
 
-1. [naver](https://www.naver.com/)
+1. [OOP](https://github.com/Sujiii1/Sujin_TIL/blob/main/C%23/OOP/OOP.md)
